@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 public class Tetriminos {
 
-    private Blocks block;
+    private final Blocks block;
 
     private int x, y; // Control x y coordinates
 
