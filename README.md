@@ -5,5 +5,3 @@
 
 ![Showcase2](Showcase/Showcase_2.png)
 ***
-#### If you're interested in building this project, I recommend IntelliJ for the best out-of-box LibGDX support.
-#### _App by Eric DaRosa_
